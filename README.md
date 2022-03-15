@@ -1,5 +1,5 @@
-# Codingtest_Study
-백준, 프로그래머스 파이썬 코딩테스트 공부 repo입니다.<br>
+# Codingtest_Study in Python
+My solution for Beakjoon, Programmers in Python<br>
 
 <!-- <img src="https://user-images.githubusercontent.com/70987343/149657792-0db82673-8b70-47f6-b980-28f18202a365.png" alt="beakjoon" style="width:700px;"/> -->
 
@@ -10,7 +10,7 @@
 
 [프로그래머스 코딩테스트 연습](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 
-- 백준
+<!-- - 백준
 
 | Step  | Title  |  Check  |
 |---|---|---|
@@ -32,4 +32,4 @@
 | 16  | 	정수론 및 조합론  |   |
 | 17  | 		스택  |   |
 | 19  | 		큐, 덱  |   |
-| ...  | 	... |   |
+| ...  | 	... |   | -->
