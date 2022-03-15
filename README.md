@@ -1,12 +1,11 @@
-# Codingtest_Study in Python
+# Algorithm in python
 My solution for Beakjoon, Programmers in Python<br>
 
 <!-- <img src="https://user-images.githubusercontent.com/70987343/149657792-0db82673-8b70-47f6-b980-28f18202a365.png" alt="beakjoon" style="width:700px;"/> -->
 
----
 
 [백준 문제 + 코드 Velog](https://velog.io/@suhyun-guri?tag=%EB%B0%B1%EC%A4%80) <br>
-[백준 - 단계별로 풀어보기](https://www.acmicpc.net/step)
+[백준 - 단계](https://www.acmicpc.net/step)
 
 [프로그래머스 코딩테스트 연습](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 
