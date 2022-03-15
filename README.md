@@ -1,14 +1,16 @@
-# BaekJoon_python
-백준 파이썬 알고리즘 공부 repo입니다.<br>
+# Codingtest_Study
+백준, 프로그래머스 파이썬 코딩테스트 공부 repo입니다.<br>
 
-<img src="https://user-images.githubusercontent.com/70987343/149657792-0db82673-8b70-47f6-b980-28f18202a365.png" alt="beakjoon" style="width:700px;"/>
+<!-- <img src="https://user-images.githubusercontent.com/70987343/149657792-0db82673-8b70-47f6-b980-28f18202a365.png" alt="beakjoon" style="width:700px;"/> -->
 
 ---
 
 [백준 문제 + 코드 Velog](https://velog.io/@suhyun-guri?tag=%EB%B0%B1%EC%A4%80) <br>
 [백준 - 단계별로 풀어보기](https://www.acmicpc.net/step)
 
-Python 단계별로 풀어나가는 중입니다.
+[프로그래머스 코딩테스트 연습](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+
+- 백준
 
 | Step  | Title  |  Check  |
 |---|---|---|
